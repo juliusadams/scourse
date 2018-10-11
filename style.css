@@ -1,0 +1,51 @@
+/* general styles */
+
+/*large devices*/
+@media(min-width: 1367px)  {
+    body {
+        background-color: red;
+    }
+}
+
+/*Laptop*/
+@media(max-width: 1366px)  {
+    body {
+        background-color: black;
+    }
+}
+
+/*iPad */
+@media(max-width: 768px)  {
+    body {
+        background-color: green;
+    }
+}
+
+/*Nexus 7*/
+@media(max-width: 600px)  {
+    body {
+        background-color: yellow;
+    }
+}
+
+/*iPhone 6 plus */
+@media(max-width: 414px) {
+    body {
+        background-color: blue;
+    }
+}
+
+/*iPhone 5 */
+@media(max-width: 320px)  {
+    body {
+        background-color: aqua;
+    }
+}
+
+
+
+
+
+
+
+
